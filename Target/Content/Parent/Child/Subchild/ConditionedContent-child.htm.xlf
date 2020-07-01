@@ -217,7 +217,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:matchPercent="0">high</mrk></target></trans-unit><trans-unit
         id="12"
         restype="x-xhtml-img-alt"
         phase-name="pretrans"><source>KimImage alttext</source><seg-source><mrk
